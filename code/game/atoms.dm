@@ -180,7 +180,7 @@
 	return
 
 
-/atom/proc/Bumped(AM as mob|obj)
+/atom/proc/CollidedWith(atom/movable/AM)
 	return
 
 // Convenience proc to see if a container is open for chemistry handling
